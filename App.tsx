@@ -12,8 +12,8 @@ import {
 } from "@react-navigation/native";
 import {
   Provider as PaperProvider,
-  DarkTheme as PaperDarkTheme,
-  DefaultTheme as PaperDefaultTheme,
+  MD3DarkTheme as PaperDarkTheme,
+  MD3LightTheme as PaperDefaultTheme,
 } from "react-native-paper";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import { Provider as StoreProvider } from "react-redux";
